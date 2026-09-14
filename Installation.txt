@@ -1,0 +1,3 @@
+## python-jose[cryptography] => Create and verify JWT tokens
+## passlib[bcrypt] => Hash and verify passwords
+## from jose import jwt    →    pip install python-jose
